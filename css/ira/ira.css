@@ -6,11 +6,10 @@ table {
     border-collapse: collapse;
 }
 
-td{
+td {
     padding-left: 20px;
     border: black 2px solid;
 }
-
 
 #head, #bottom {
     height: 14.3646%;
