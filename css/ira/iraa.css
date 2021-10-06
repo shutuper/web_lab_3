@@ -1,0 +1,57 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+
+div {
+    /*border: 2px solid black;*/
+    /*border-collapse: separate;*/
+}
+
+#row1 {
+    border: 2px solid black;
+
+    width: 100%;
+    height: 14.3646%;
+    background-color: #0166FF;
+}
+
+#row_other {
+    height: 80%;
+}
+
+#col5 {
+    border-left: 2px solid black;
+    width: 28.5714%;
+    float: left;
+    background-color: #FECB00;
+    height: 100%;
+}
+
+#col4 {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    background-color: #FEFEFE;
+    float: left;
+    width: 42.2858%;
+    height: 100%;
+}
+
+#col2 {
+    border-right: 2px solid black;
+    /*width: 27.1428%;*/
+    width: auto;
+    background-color: #FECB00;
+    height: 100%;
+}
+
+#row3 {
+    border: 2px solid black;
+
+    width: 100%;
+    height: 14.3646%;
+    position: absolute;
+    bottom: 0;
+    background-color: #0166FF;
+}
