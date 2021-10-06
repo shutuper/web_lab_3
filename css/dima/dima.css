@@ -17,7 +17,7 @@ html, body {
 }
 
 #td, th, tr {
-    border: black 2px solid;
+    border: 3px black solid;
 }
 
 #column_1 {
