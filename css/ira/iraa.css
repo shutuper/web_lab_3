@@ -2,16 +2,13 @@ html, body {
     height: 100%;
     margin: 0;
     width: 100%;
-}
-
-div {
-    /*border: 2px solid black;*/
-    /*border-collapse: separate;*/
+    font-family: sans-serif;
+    font-weight: 1000;
 }
 
 #row1 {
     border: 2px solid black;
-
+    padding-left: 20px;
     width: 100%;
     height: 14.3646%;
     background-color: #0166FF;
@@ -22,14 +19,18 @@ div {
 }
 
 #col5 {
+    padding-left: 20px;
     border-left: 2px solid black;
     width: 28.5714%;
     float: left;
     background-color: #FECB00;
     height: 100%;
+    /*text-align: center;*/
+    align-content: center;
 }
 
 #col4 {
+    padding-left: 20px;
     border-left: 2px solid black;
     border-right: 2px solid black;
     background-color: #FEFEFE;
@@ -39,6 +40,7 @@ div {
 }
 
 #col2 {
+    padding-left: 20px;
     border-right: 2px solid black;
     /*width: 27.1428%;*/
     width: auto;
@@ -48,7 +50,7 @@ div {
 
 #row3 {
     border: 2px solid black;
-
+    padding-left: 20px;
     width: 100%;
     height: 14.3646%;
     position: absolute;
