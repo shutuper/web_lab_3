@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+}
+
+div {
+    border: 3px black solid;
+}
+
+body {
+    margin: 0;
+    font-size: 2em;
+    padding: 0 0 0 10%;
+    width: 80%;
+    height: 100%;
+}
+
+.maxim {
+    width: available;
+    background-color: blue;
+    color: white;
+    height: 20%;
+}
+
+.yel-1 {
+    float: left;
+    background-color: yellow;
+    height: 60%;
+    width: 25%;
+}
+
+.wh {
+    background-color: white;
+    float: left;
+    height: 60%;
+    width: 50%;
+}
+
+.yel-2 {
+    background-color: yellow;
+    height: 60%;
+}
+
+.bl-b {
+    background-color: blue;
+    color: white;
+}
