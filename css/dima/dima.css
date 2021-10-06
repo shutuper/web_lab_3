@@ -1,0 +1,80 @@
+#heigher {
+    height: 70%;
+}
+
+html, body {
+    height: 95%;
+    margin: 1%;
+    width: 98%;
+}
+
+#table {
+    font-family: sans-serif;
+    font-weight: 1000;
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+#td, th, tr {
+    border: black 2px solid;
+}
+
+#column_1 {
+    width: 10%;
+    background: rgb(0, 34, 255);
+    font-size: 20px;
+    height: 13%;
+    text-align: center;
+}
+
+#column_2 {
+    background: rgb(255, 255, 255);
+    width: 3%;
+    height: 13%;
+}
+
+#column_3 {
+    width: 10%;
+    background: red;
+    font-size: 20px;
+    height: 13%;
+    text-align: center;
+}
+
+
+#column_4 {
+    width: 10%;
+    background: white;
+    font-size: 20px;
+    height: 13%;
+    text-align: center;
+}
+
+#pos {
+    position: absolute;
+    top: 45px;
+    left: 100px;
+    width: 20%;
+    height: 30px;
+    background-color: white;
+}
+
+#cell {
+    height: 3%;
+    width: 120px;
+    background: rgb(255, 242, 0);
+    font-size: 40px;
+    text-align: center;
+    margin-left: 120px;
+
+}
+
+#footer {
+    height: 3%;
+    width: 120px;
+    background: rgb(255, 242, 0);
+    font-size: 40px;
+    text-align: center;
+
+}
